@@ -1,0 +1,1 @@
+Este código crea una interfaz de usuario básica con campos de entrada de datos para la dirección IP y el rango de puertos a escanear. Al hacer clic en el botón "Escanear", se ejecutan las funciones de escaneo de puertos y servicios, y se muestran los resultados en una ventana de mensaje. 
