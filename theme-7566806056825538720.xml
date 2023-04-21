@@ -13,15 +13,7 @@
     <link href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
     <link href='https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css' rel='stylesheet'/>
 <!-- Template Style CSS -->
-<b:skin version='1.0.0'><![CDATA[/* 
------------------------------------------------
-Blogger Template Style
-Name:        Infinty
-License:     Free Version
-Version:     4.0
-Author:      Sora Templates
-Author Url:  https://www.soratemplates.com/
------------------------------------------------ */
+
 /April was here, let me explain a bit more about how i worked here - basically i personalized certain patterns and add a few images here and there, this was a practical way for avoiding using frameworks and a good way for achieving results with a low budget/
 /*
 <!-- Variable definitions -->
